@@ -1,3 +1,4 @@
+//Please provide as much criticism as possible, i did struggle through a few but i would like to get some info back. 
 /*
 Exercise 1:
   - Define an empty array named foods
